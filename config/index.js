@@ -58,21 +58,21 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/leovincent-tech/",
     },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
-    },
+    // {
+    //   name: "Medium",
+    //   url: "https://konstantinmuenster.medium.com/",
+    // },
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/leov1963",
     },
-    {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
-    },
+    // {
+    //   name: "Behance",
+    //   url: "https://www.behance.net/konstanmnster",
+    // },
     // {
     //   name: "Mail",
     //   url: "mailto:mail@konstantin.digital",
@@ -98,7 +98,7 @@ module.exports = {
     button: {
       useFileName: true,
       name: "Resume",
-      fileName: "goldenpuppy.pdf", // the file has to be placed inside the static folder at the root level
+      fileName: "1Leo-Vincent-designResume.pdf", // the file has to be placed inside the static folder at the root level
       url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },
