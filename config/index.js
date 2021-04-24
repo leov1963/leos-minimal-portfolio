@@ -1,10 +1,10 @@
 module.exports = {
   //-- SITE SETTINGS -----
-  author: "@konstantinmuenster",
-  siteTitle: "Gatsby Starter Portfolio Minimal",
-  siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+  author: "@leov1963",
+  siteTitle: "Leo Vincent's Portfolio",
+  siteShortTitle: "Leo Vincent", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "A modern one-page portfolio with a clean yet expressive design.",
+    "Leo Vincent's Portfolio",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
@@ -87,7 +87,7 @@ module.exports = {
         url: "/#about",
       },
       {
-        name: "Features",
+        name: "Projects",
         url: "/#projects",
       },
       {
@@ -104,12 +104,12 @@ module.exports = {
   },
   footerLinks: [
     {
-      name: "Privacy",
-      url: "/privacy",
+      name: "",
+      url: "",
     },
     {
-      name: "Imprint",
-      url: "/imprint",
+      name: "",
+      url: "",
     },
   ],
 }
